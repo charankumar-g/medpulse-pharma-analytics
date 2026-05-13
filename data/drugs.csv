@@ -1,0 +1,13 @@
+drug_id,name,category,form,mrp,cost,launch,patent_expiry
+D001,CardioShield 10mg,Cardiovascular,Tablet,320,98,2022-03-01,2027-06-01
+D002,CardioShield 20mg,Cardiovascular,Tablet,580,172,2022-03-01,2027-06-01
+D003,DiabeGuard 500mg,Diabetes,Tablet,210,58,2021-09-01,2026-09-01
+D004,DiabeGuard Insulin,Diabetes,Injection,890,310,2023-01-01,2029-01-01
+D005,NeuroCalm 25mg,Neurology,Capsule,450,140,2022-06-01,2028-06-01
+D006,NeuroCalm 50mg,Neurology,Capsule,780,235,2022-06-01,2028-06-01
+D007,PulmoFlex Inhaler,Respiratory,Inhaler,1250,420,2023-06-01,2030-01-01
+D008,OncoClear 100mg,Oncology,Injection,8500,3200,2023-09-01,2031-01-01
+D009,OncoClear 250mg,Oncology,Injection,18500,6800,2023-09-01,2031-01-01
+D010,ImmunoBoost,Immunology,Tablet,650,195,2024-01-01,2030-06-01
+D011,GastroEase 40mg,Gastroenterology,Tablet,180,48,2021-01-01,2025-12-01
+D012,BoneDense 70mg,Orthopedics,Tablet,420,130,2022-01-01,2028-01-01
